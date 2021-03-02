@@ -145,3 +145,4 @@ export const MyComponent = () => {
 - Map over these top 5 users inside the ```<div>``` with the ```className="topFriendsList"``` (There is a note here with instructions on what to return for each  friend)
 - An image of the finished expandedCard can be found at src/assets/expandedCardFinished.png
 # design-ops-challenge
+# design-ops-challenge
