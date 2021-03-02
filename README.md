@@ -144,3 +144,4 @@ export const MyComponent = () => {
 - The users following array stores objects with id, name, profileImage and rating keys, find the top 5 rated friends in this array
 - Map over these top 5 users inside the ```<div>``` with the ```className="topFriendsList"``` (There is a note here with instructions on what to return for each  friend)
 - An image of the finished expandedCard can be found at src/assets/expandedCardFinished.png
+# design-ops-challenge
